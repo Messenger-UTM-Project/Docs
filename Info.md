@@ -1,1 +1,4 @@
- [Obsidian](https://obsidian.md)
+%% #info %%
+
+- [[Propunerea de proiect]]
+- [Obsidian](https://obsidian.md)
